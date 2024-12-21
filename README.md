@@ -73,7 +73,7 @@ Le projet est organisé en couches :
 
 ## Conclusion
 
-Ce projet met en lumière les concepts clés de Jakarta EE et leur application dans des projets réels. Des améliorations futures pourraient inclure :  
+Ce projet met  lumière les concepts clés de Jakarta EE et leur application dans des projets réels. Des améliorations futures pourraient inclure :  
 - Une meilleure validation des formulaires.  
 - L'intégration de graphiques pour visualiser les données.
 
