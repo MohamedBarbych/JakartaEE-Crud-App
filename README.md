@@ -25,7 +25,7 @@ L'application suit l'architecture **MVC (Model-View-Controller)** et exploite le
 
 - **Jakarta EE (Servlets, JSP, JSTL)** : Structure l'application en suivant l'architecture MVC.
 - **Hibernate ORM** : Simplifie la gestion des entités Java et leur persistance dans MySQL.
-- **MySQL** : Base de données relationnelle utilisée pour stocker les entités.
+- **MySQL** : Base de données relationnelle utilisée pour stocker les entités.               
 - **Apache Tomcat** : Serveur d'applications pour déployer l'application.
 - **Maven** : Gestionnaire de dépendances.
 - **Lombok** : Réduit le code répétitif en Java.
