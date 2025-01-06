@@ -5,7 +5,7 @@ Un projet CRUD basé sur Jakarta EE utilisant Hibernate ORM, Jakarta Persistence
 ## Table des matières
 1. [Introduction](#introduction)
 2. [Technologies utilisées](#technologies-utilisées)
-3. [Structure du projet](#structure-du-projet)
+3. [Structure du projet](#structure-du-projet)                              
 4. [Fonctionnalités](#fonctionnalités)
 5. [Configuration du projet](#configuration-du-projet)
 6. [Guide d'exécution](#guide-dexécution)
